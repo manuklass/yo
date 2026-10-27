@@ -1,0 +1,34 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash",
+      "Edit",
+      "Write",
+      "Read",
+      "Glob",
+      "Grep",
+      "WebFetch",
+      "WebSearch",
+      "Skill",
+      "Agent",
+      "mcp__Notion",
+      "mcp__Todoist",
+      "mcp__Google_Drive",
+      "mcp__Google_Sheets",
+      "mcp__Google_Docs",
+      "mcp__Google_Slides",
+      "mcp__Google_Calendar",
+      "mcp__Gmail",
+      "mcp__Microsoft_365",
+      "mcp__Claude_Docs",
+      "mcp__Cloud_apify",
+      "mcp__Canva",
+      "mcp__Figma",
+      "mcp__Publer",
+      "mcp__Shopify",
+      "mcp__GoDaddy",
+      "mcp__github",
+      "mcp__claude-code-remote"
+    ]
+  }
+}
